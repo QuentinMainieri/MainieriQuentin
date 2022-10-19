@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mainieri Quentin</h1>
 <h3 align="center">Young developer who wants to discover new horizons. French Dev.</h3>
 
-- 🔭 I’m currently working on **KamagoTreeWorld**
-
-- 🌱 I’m currently learning **Angular, Solidity**
-
-- 👨‍💻 All of my projects are available at (In comming later)
-
 - 📫 How to reach me **quentin.mainieri@live.fr**
 
 - 📄 Know about my experiences [https://matesmakings.herokuapp.com/](https://matesmakings.herokuapp.com/)
